@@ -24,3 +24,6 @@ BOARD_HARDWARE_CLASS += device/sony/castor_windy/cmhw
 
 # AICP hardware info
 TARGET_SYSTEM_PROP += device/sony/castor_windy/aicp.system.prop
+
+# Build TWRP
+RECOVERY_VARIANT := twrp
