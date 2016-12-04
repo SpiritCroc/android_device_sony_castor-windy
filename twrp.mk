@@ -20,3 +20,7 @@ TW_NO_USB_STORAGE := true
 TW_MAX_BRIGHTNESS := 255
 TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness"
 DEVICE_RESOLUTION := 1920x1200
+
+# Recovery
+PRODUCT_COPY_FILES += \
+device/sony/shinano-common/rootdir/twrp.fstab:recovery/root/etc/twrp.fstab
