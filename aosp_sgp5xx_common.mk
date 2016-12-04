@@ -78,3 +78,6 @@ $(call inherit-product, vendor/sony/shinano-castor/castor-vendor.mk)
 
 # copy wlan firmware
 $(call inherit-product-if-exists, hardware/broadcom/wlan/bcmdhd/firmware/bcm4339/device-bcm.mk)
+
+# Inherit TWRP requirements
+$(call inherit-product, device/sony/castor_windy/twrp.mk)
