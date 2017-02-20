@@ -24,3 +24,6 @@ DEVICE_RESOLUTION := 1920x1200
 # Recovery
 PRODUCT_COPY_FILES += \
 device/sony/shinano-common/rootdir/twrp.fstab:recovery/root/etc/twrp.fstab
+
+# TWRP device version
+TW_DEVICE_VERSION=Elefant
