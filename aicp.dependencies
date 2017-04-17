@@ -1,18 +1,18 @@
 [
   {
-    "repository": "LineageOS/android_device_sony_shinano-common",
+    "repository": "rcstar6696/android_device_sony_shinano-common",
     "target_path": "device/sony/shinano-common",
-    "branch": "cm-14.1"
+    "branch": "lineage"
   },
   {
-    "repository": "LineageOS/android_kernel_sony_msm8974",
+    "repository": "rcstar6696/android_kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
-    "branch": "cm-14.1"
+    "branch": "lineage"
   },
   {
-    "repository": "LineageOS/android_device_sony_msm8974-common",
+    "repository": "rcstar6696/android_device_sony_msm8974-common",
     "target_path": "device/sony/msm8974-common",
-    "branch": "cm-14.1"
+    "branch": "lineage"
   },
   {
     "repository": "LineageOS/android_device_sony_common",
@@ -45,8 +45,8 @@
     "branch": "cm-14.1"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_sony",
+    "repository": "rcstar6696/proprietary_vendor_sony",
     "target_path": "vendor/sony",
-    "branch": "cm-14.1"
+    "branch": "lineage"
   }
 ]
