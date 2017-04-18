@@ -1,8 +1,8 @@
 [
   {
-    "repository": "rcstar6696/android_device_sony_shinano-common",
+    "repository": "SpiritCroc/android_device_sony_shinano-common",
     "target_path": "device/sony/shinano-common",
-    "branch": "lineage"
+    "branch": "AICP-n7.1-laos-rcstar"
   },
   {
     "repository": "rcstar6696/android_kernel_sony_msm8974",
